@@ -5,10 +5,8 @@ function App() {
 
   return (
     <main>
-      <Post/>
-      <Post/>
-      <Post/>
-      <Post/>
+      <Post author="Chandan" body="React.js is awesome!"/>
+      <Post author="Singh" body="Check my end to end application!"/>
     </main>
   );
     
